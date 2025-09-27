@@ -47,7 +47,7 @@ h1 {
 ## Box Model
 | PROPERTY | DESCRIPTION |
 |------|------------|
-| `width` / `height`|
+| `width` / `height`| Sets the size of an element |
 | `pading` | Sets the size of an element |
 | `border` | Edge aroung padding (e.g., `1px solid black`) |
 | `margin` | Space outside the border (between elements) |
