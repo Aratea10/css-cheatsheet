@@ -39,7 +39,7 @@ h1 {
 |------|------------|-----|
 | `color` | `red`, `#ff0000`, `rgb(255,0,0)` | Text color |
 | `font-size` | `16px`, `1.2em`, `100%` | Size of the font |
-| `font-family` | `"Arial"`, `sans-serif`, `` | Font type |
+| `font-family` | `"Arial"`, `sans-serif` | Font type |
 | `font-weight` | `normal`, `bold`, `700` | Thickness of text |
 | `text-align` | `left`, `center`, `right`, `justify` | Horizontal alignment |
 | `line-height` | `1.5`, `24px` | Space between lines |
