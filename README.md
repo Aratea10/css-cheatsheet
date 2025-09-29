@@ -1,12 +1,10 @@
 # 🌍 CSS Cheatsheet / Hoja Chuleta de CSS
 
-<p align="center">
-  <a href="https://www.w3.org/Style/CSS/">
-    <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white" alt="CSS3" />
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS">
-  </a>
-</p>
+<div align="center">
+  
+  ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=CSS&logoColor=white)
+  
+</div>
 
 Choose your language / Elige tu idioma:
 
