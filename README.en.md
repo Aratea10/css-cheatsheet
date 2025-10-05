@@ -4,7 +4,7 @@ A quick reference guide with essential CSS syntax, selectors, properties, and be
 ---
 <br>
 
-## 🎨 Sintaxis Básica
+## 🎨 Basic Syntax
 
 ```css
 selector {
