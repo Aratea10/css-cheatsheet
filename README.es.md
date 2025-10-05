@@ -94,7 +94,7 @@ h1 {
 | `float` | `left`, `right`, `none` | Hace flotar un elemento (no recomendado para layout) |
 <br>
 
-## Flexbox (Contenedor Padre)
+## 🔄 Flexbox (Contenedor Padre)
 | PROPIEDAD | VALORES COMUNES | DESCRIPCIÓN |
 |------|------------| ----- |
 | `display: flex` | - |Activa Flexbox |
@@ -117,7 +117,7 @@ h1 {
 | `order` | Cambia orden de visualización (`0` por defecto, acepta negativos) |
 <br>
 
-## Grid (Contenedor Padre)
+## 🔲 Grid (Contenedor Padre)
 | PROPIEDAD | VALORES/EJEMPLOS | DESCRIPCIÓN |
 |------|------------|-------|
 | `display:grid` | - | Activa CSS Grid |
